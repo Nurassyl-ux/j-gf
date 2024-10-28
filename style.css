@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background-color: #0a0c1b;
+}
+section {
+    
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.inf {
+    padding: 75px 30px;
+    color: white;
+    background-color: #1c1938;
+}
+.mal {
+    color: #a967d1 ;
+}
+h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+p {
+    margin-bottom: 70px;
+}
+.all {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
